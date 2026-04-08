@@ -11,10 +11,6 @@ I build scalable backend systems using the Java ecosystem with a focus on clean 
 - 🧠 Focused on System Design & Clean Code  
 - 📈 Actively preparing for Product/Service-based companies  
 
----
-<br><br>---<br><br>## 💻 Tech Stack (Java Focused)<br><br>### 🧠 Core Java<br>Java | OOPs | Collections | Exception Handling | Multithreading<br><br>### ⚙️ Backend (Java)<br>Spring Boot | Spring MVC | REST APIs | JDBC | Hibernate (Basics)<br><br>### 🎨 Frontend<br>HTML5 | CSS3 | Bootstrap | JavaScript | React (Basics)<br><br>### 🗄️ Database<br>MySQL | SQL<br><br>### 🛠️ Tools & Technologies<br>Git | GitHub | Postman | Docker (Basics) | Maven
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samyakbageshwar26@gmail.com) 
 
@@ -25,15 +21,6 @@ I build scalable backend systems using the Java ecosystem with a focus on clean 
 ![](https://nirzak-streak-stats.vercel.app/?user=Samyak-create&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-create&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samyak-create&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Samyak-create&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-
----
 
 ## 🚀 Featured Project
 
@@ -48,14 +35,6 @@ A production-style backend system with:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samyak-create&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-create&layout=compact)
-
----
-
 ## 🏆 Achievements
 
 - Built multiple backend projects using Spring Boot  
@@ -64,11 +43,6 @@ A production-style backend system with:
 
 ---
 
-## 🌐 Connect With Me
-
-📧 Email: samyakbageshwar26@gmail.com  
-
----
 
 "I focus on building real-world backend systems with clean architecture, secure APIs, and data-driven features like analytics and trends."
 
